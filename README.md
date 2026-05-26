@@ -23,5 +23,5 @@ A beginner Biopython project.
 - Google Colab 
 
 ## Status
-Week 1 — actively learning and expanding
-Week 2 - learning more about biophysics and thermodynamic modeling
+- Week 1: Actively learning and expanding
+- Week 2: Learning more about biophysics and thermodynamic modeling
