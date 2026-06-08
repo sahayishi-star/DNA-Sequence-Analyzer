@@ -29,3 +29,4 @@ A beginner Biopython project.
 - Week 1: Actively learning and expanding
 - Week 2: Learning more about biophysics and thermodynamic modeling
 - Week 3: Utilizing thermochemical concepts to improve models and learning HTML
+- Week 4: Updating HTML UI and reading more about DNA stability and thermodynamics
