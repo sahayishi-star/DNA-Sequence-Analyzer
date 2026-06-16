@@ -30,3 +30,4 @@ A beginner Biopython project.
 - Week 2: Learning more about biophysics and thermodynamic modeling
 - Week 3: Utilizing thermochemical concepts to improve models and learning HTML
 - Week 4: Updating HTML UI and reading more about DNA stability and thermodynamics
+- Week 5: Connecting python code to the HTML UI and reading more about DNA stability and thermodynamics 
