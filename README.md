@@ -1,8 +1,5 @@
 # DNA-Sequence-Analyzer
 A beginner Biopython project for DNA sequence analysis.
-# DNA Sequence Analyzer
-
-A beginner Biopython project.
 
 ## What it does
 - Detects Open Reading Frames (ORFs)
