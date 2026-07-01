@@ -29,3 +29,4 @@ A beginner Biopython project for DNA sequence analysis.
 - Week 4: Updating HTML UI and reading more about DNA stability and thermodynamics
 - Week 5: Connecting python code to the HTML UI and reading more about DNA stability and thermodynamics 
 - Week 6: I was able to clean up the results section and allow for automatic updates when slider value is changed
+- Week 7: I was able to make 3 Ipywidget cards UI to hold results from analyzer
